@@ -1,6 +1,5 @@
 # MacOSX
 .ds_store
 
-*.SLDASM
 *.stl
 ~$?.*
